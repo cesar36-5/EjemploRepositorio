@@ -10,4 +10,15 @@ public class main {
     public void resta(int a, int b){
         System.out.println(a-b);
     }
+
+    public void multi(int a, int b){
+        System.out.println(a*b);
+    }
+    public void div(int a, int b){
+        if(b==0){
+            System.out.println("No se puede dividir");
+        }else{
+            System.out.println(a/b);
+        }
+    }
 }
