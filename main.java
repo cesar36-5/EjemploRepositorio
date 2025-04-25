@@ -35,10 +35,10 @@ public class main {
     //Mercedes
     public void funcion(double a){
         System.out.println("Double: " + a);
+        return;
     }
     //Cesar
     public void funcion(int a){
         System.out.println("Int: " + a);
     }
-    
 }
