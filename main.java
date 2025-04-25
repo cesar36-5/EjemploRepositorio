@@ -26,4 +26,8 @@ public class main {
     public void funcion(int a){
         System.out.println("Int: " + a);
     }
+    //Mercedes
+    public void funcion(double a){
+        System.out.println("Int: " + a);
+    }
 }
