@@ -22,4 +22,8 @@ public class main {
         }
         //-
     }
+    //Mercedes
+    public void funcion(double a){
+        System.out.println("Double: " + a);
+    }
 }
