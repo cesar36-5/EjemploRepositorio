@@ -20,5 +20,10 @@ public class main {
         }else{
             System.out.println(a/b);
         }
+        //-
+    }
+    //Cesar
+    public void funcion(int a){
+        System.out.println("Int: " + a);
     }
 }
