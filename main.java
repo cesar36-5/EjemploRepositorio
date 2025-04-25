@@ -22,4 +22,8 @@ public class main {
         }
         //-
     }
+    //Cesar
+    public void funcion(int a){
+        System.out.println("Int: " + a);
+    }
 }
