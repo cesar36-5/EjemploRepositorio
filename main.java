@@ -20,6 +20,5 @@ public class main {
         }else{
             System.out.println(a/b);
         }
-        //Bv
     }
 }
